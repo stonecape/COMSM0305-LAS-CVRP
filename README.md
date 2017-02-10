@@ -6,7 +6,7 @@ Since the vehicle routing problem is considered as NP-hard. For this kind of pro
 
 Although many improvement strategies, like candidate list, multiple ant colonies and route mutation, are applied to ACO in order to enhance the performance of the algorithm, SA shows a better result (cost) than ACO in FruityBun Challenge. In this poster, both of them will be introduced to solve Capacitated Vehicle Routing Problem (CVRP).
 
-##the code structure
+##The code structure
 ###Ant Colony Optimizations (ACO)
 run CVRP_COMSM0305/CVRP_soln/src/uk/ac/bristol/cvrp/ACO_CVRP.java
 
